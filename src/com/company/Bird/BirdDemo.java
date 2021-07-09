@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Bird;
 
 public class BirdDemo {
     public static void main(String[] args) {

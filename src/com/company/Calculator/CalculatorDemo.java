@@ -1,4 +1,6 @@
-package com.company;
+package com.company.Calculator;
+
+import com.company.Calculator.Calculator;
 
 public class CalculatorDemo {
     public static void main(String[] args) {
